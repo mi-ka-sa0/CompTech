@@ -1,1 +1,1 @@
-# CompTech
+TinDog Starting Files
